@@ -13,3 +13,4 @@
 - [Juju](https://juju.is/)
 - [Rockcraft](https://canonical-rockcraft.readthedocs-hosted.com/en/latest/)
 - [Snapcraft](https://snapcraft.io/docs)
+- [Skopeo](https://github.com/containers/skopeo)
